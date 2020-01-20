@@ -1,2 +1,4 @@
 backend/yarn.lock
 node_modules
+mobile/.expo-shared/assets.json
+mobile/yarn.lock
