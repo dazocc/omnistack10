@@ -32,12 +32,12 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 
 DevRadar is a project that aims to connect close developers to you if they use the same technologies.
 
-## :information_source: How to use
+## How to use
 
-- [Install Git]
-- [Install Node.js]
-- [Install Yarn]
-- [Install EXPO in your mobile]
+- Install Git
+- Install Node.js
+- Install Yarn
+- Install EXPO in your mobile
 
 ### Install Software
 
