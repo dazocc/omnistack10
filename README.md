@@ -28,5 +28,52 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+
 DevRadar is a project that aims to connect close developers to you if they use the same technologies.
 
+## :information_source: How to use
+
+Install Git
+Install Node.js
+Install Yarn
+
+### Install Software
+
+```bash
+# Clone this repository
+$ git clone https://github.com/dazocc/omnistack10
+
+# Configure the repository MongDB
+# In file index.js of backend project set your connection string
+
+# Install EXPO into your mobile
+
+# Go into the repository
+$ cd backend
+
+# Install dependencies
+$ yarn
+
+# Run the API
+$ yarn dev
+
+# Go into the repository
+$ cd mobile
+
+# Install dependencies
+$ yarn
+
+# Run the MOBILE
+$ yarn start
+
+# Go into the repository
+$ cd web
+
+# Install dependencies
+$ yarn
+
+# Run the WEB
+$ yarn start
+
+#Open in your mobile the App EXPO and Scan QR Code
+```
