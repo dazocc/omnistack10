@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="github/devradar.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -27,6 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias./
+O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 DevRadar is a project that aims to connect close developers to you if they use the same technologies.
 
