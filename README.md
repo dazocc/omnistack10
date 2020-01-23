@@ -9,6 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-information_source">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -34,7 +35,9 @@ DevRadar is a project that aims to connect close developers to you if they use t
 ## :information_source: How to use
 
 Install Git
+
 Install Node.js
+
 Install Yarn
 
 ### Install Software
