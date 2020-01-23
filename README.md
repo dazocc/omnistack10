@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-information_source">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source">How to use</a>
 </p>
 
 <p align="center">
@@ -34,11 +34,10 @@ DevRadar is a project that aims to connect close developers to you if they use t
 
 ## :information_source: How to use
 
-Install Git
-
-Install Node.js
-
-Install Yarn
+- [Install Git]
+- [Install Node.js]
+- [Install Yarn]
+- [Install EXPO in your mobile]
 
 ### Install Software
 
@@ -48,8 +47,6 @@ $ git clone https://github.com/dazocc/omnistack10
 
 # Configure the repository MongDB
 # In file index.js of backend project set your connection string
-
-# Install EXPO into your mobile
 
 # Go into the repository
 $ cd backend
